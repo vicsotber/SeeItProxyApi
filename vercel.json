@@ -8,12 +8,28 @@
         "maxLambdaSize": "50mb",
         "outputDirectory": "dist"
       }
+    },
+    {
+      "src": "static/**",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
     {
+      "src": "/",
+      "dest": "app.py"
+    },
+    {
       "src": "/analizar_imagen",
       "dest": "app.py"
+    },
+    {
+      "src": "/static/(.*)",
+      "dest": "/dist/static/$1"
+    },
+    {
+      "src": "/favicon.ico",
+      "dest": "/static/favicon.ico"
     }
   ]
 }
