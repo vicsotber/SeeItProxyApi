@@ -45,7 +45,9 @@
 
 SeeIt es una aplicación Android que permite a usuarios con discapacidad visual obtener descripciones de imágenes o reconocer texto en ellas entre otras funcionalidades. Está siendo desarrollada como TFG para el grado de Ingeniería del Software de la Univerdad de Sevilla. 
 
-Este proxy API actúa como intermediario entre la aplicación móvil y los servicios de Microsoft Azure Cognitive Services
+Este proxy API actúa como intermediario entre la aplicación móvil y los servicios de Microsoft Azure Cognitive Services.
+
+Enlace al repositorio original del proyecto: <a href="https://github.com/vicsotber/SeeIt">SeeIt</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,7 +64,7 @@ Este proxy API actúa como intermediario entre la aplicación móvil y los servi
 
 Autor - [vicsotber](https://github.com/vicsotber) - victor.soto.berenguer123@gmail.com
 
-SeeIt Project Link: [https://github.com/vicsotber/SeeIt](https://github.com/vicsotber/SeeIt)
+SeeIt Project Link: [https://github.com/vicsotber/SeeItProxyApi](https://github.com/vicsotber/SeeItProxyApi)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
